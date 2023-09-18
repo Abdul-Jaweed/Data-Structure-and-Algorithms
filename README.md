@@ -52,6 +52,13 @@ I'll be updating this section with links to the resources I find most helpful.
 
 I'm keeping track of my daily progress in a dedicated [Progress Log](progress.md) file. You can see my daily updates, challenges I've tackled, and milestones achieved.
 
+|   Day   |   Index   |   Date   |
+|---------|-----------|----------|
+|   Day 1 |   [Introduction to programming](https://github.com/Abdul-Jaweed/Data-Structure-and-Algorithms/blob/main/Resource/Day%2001%20Introduction%20to%20Programming/01.md) |   18-Sept-2023 |
+
+
+
+
 ## Contributing
 
 While this repository primarily documents my personal learning journey, contributions are welcome. If you have suggestions for improvements, spot errors in my code, or want to share additional resources, please open an issue or submit a pull request.

@@ -27,7 +27,7 @@ My main goals for this 180-day journey include:
 - Solving a wide range of coding challenges and problems.
 - Building practical applications to apply what I've learned.
 
-## Project Structure
+## Project Structure {Updated soon}
 
 The project is organized into different directories, each focusing on specific topics. Here's an overview:
 

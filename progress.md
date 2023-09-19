@@ -1,7 +1,7 @@
 |   Day   |   Index   |   Date   |
 |---------|-----------|----------|
 |   Day 1 |   [Introduction to programming](https://github.com/Abdul-Jaweed/Data-Structure-and-Algorithms/blob/main/Resource/Day%2001%20Introduction%20to%20Programming/01.md) |   18-Sept-2023 |
-|   Day 2 |   [Introduction to FlowCharts and PseudoCode in Programming](https://github.com/Abdul-Jaweed/Data-Structure-and-Algorithms/blob/main/Resource/Day%2001%20Introduction%20to%20Programming/01.md) |   19-Sept-2023 |
+|   Day 2 |   [Introduction to FlowCharts and PseudoCode in Programming](https://github.com/Abdul-Jaweed/Data-Structure-and-Algorithms/blob/main/Resource/Day%2002%20Introduction%20to%20FlowCharts%20and%20PseudoCode%20in%20Programming/01.md) |   19-Sept-2023 |
 <!--|   Day 1 |   [Introduction to programming](https://github.com/Abdul-Jaweed/Data-Structure-and-Algorithms/blob/main/Resource/Day%2001%20Introduction%20to%20Programming/01.md) |   18-Sept-2023 | -->
 <!--|   Day 1 |   [Introduction to programming](https://github.com/Abdul-Jaweed/Data-Structure-and-Algorithms/blob/main/Resource/Day%2001%20Introduction%20to%20Programming/01.md) |   18-Sept-2023 | -->
 <!--|   Day 1 |   [Introduction to programming](https://github.com/Abdul-Jaweed/Data-Structure-and-Algorithms/blob/main/Resource/Day%2001%20Introduction%20to%20Programming/01.md) |   18-Sept-2023 | -->

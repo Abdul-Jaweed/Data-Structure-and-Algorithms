@@ -1,6 +1,6 @@
 # Data Structures and Algorithms in C++
 
-![Project Logo](logo.png)
+![Project Logo]([logo.png](https://github.com/Abdul-Jaweed/Data-Structure-and-Algorithms/blob/main/logo.png))
 
 This repository is a collection of my journey to learn Data Structures and Algorithms using C++. I've dedicated 180 days to this learning process, and I'll be sharing my progress, code implementations, and useful resources throughout this journey.
 

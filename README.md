@@ -54,8 +54,9 @@ I'm keeping track of my daily progress in a dedicated [Progress Log](progress.md
 
 |   Day   |   Index   |   Date   |
 |---------|-----------|----------|
-|   Day 1 |   [Introduction to programming](https://github.com/Abdul-Jaweed/Data-Structure-and-Algorithms/blob/main/Resource/Day%2001%20Introduction%20to%20Programming/01.md) |   18-Sept-2023 |
-|   Day 2 |   [Introduction to FlowCharts and PseudoCode in Programming](https://github.com/Abdul-Jaweed/Data-Structure-and-Algorithms/blob/main/Resource/Day%2002%20Introduction%20to%20FlowCharts%20and%20PseudoCode%20in%20Programming/01.md) |   19-Sept-2023 |
+|   Day 1 |   [Introduction to programming](https://github.com/Abdul-Jaweed/Data-Structure-and-Algorithms/tree/main/Resource/Day%2001%20Introduction%20to%20Programming) |   18-Sept-2023 |
+|   Day 2 |   [Introduction to FlowCharts and PseudoCode in Programming](https://github.com/Abdul-Jaweed/Data-Structure-and-Algorithms/tree/main/Resource/Day%2002%20Introduction%20to%20FlowCharts%20and%20PseudoCode%20in%20Programming) |   19-Sept-2023 |
+|   Day 3 |   [Start C++ from Zero and Write Your First Program](https://github.com/Abdul-Jaweed/Data-Structure-and-Algorithms/tree/main/Resource/Day%2003%20Start%20C%2B%2B%20from%20Zero%20and%20Write%20Your%20First%20Program) |   20-Sept-2023 |
 
 
 

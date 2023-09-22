@@ -1,3 +1,5 @@
+## Week 1 
+
 |   Day   |   Index   |   Date   |
 |---------|-----------|----------|
 |   Day 1 |   [Introduction to programming](https://github.com/Abdul-Jaweed/Data-Structure-and-Algorithms/tree/main/Resource/Day%2001%20Introduction%20to%20Programming) |   18-Sept-2023 |

@@ -1,4 +1,7 @@
-<h1 align="center">Data Structures and Algorithms in C++</h1>
+<!-- <h1 align="center">Data Structures and Algorithms in C++</h1> -->
+
+<h1 align="center" style="color: red;">Data Structures and Algorithms in C++</h1>
+
 
 ![logo](https://github.com/Abdul-Jaweed/Data-Structure-and-Algorithms/blob/main/logo.png)
 

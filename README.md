@@ -1,8 +1,8 @@
 <!-- <h1 align="center">Data Structures and Algorithms in C++</h1> -->
-
 <!-- <h1 align="center" style="color: red;">Data Structures and Algorithms in C++</h1> -->
+<h1 align="center" style="color: red;">Data Structure and Algorithms in C++</h1>
 
-<h1 align="center" style="color: red;">Data Structures and Algorithms in C++</h1>
+<!-- <h1 align="center"><span style="color:red;">Data Structures and Algorithms in C++</span></h1> -->
 
 
 

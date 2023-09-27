@@ -7,7 +7,11 @@
 |   Day 3 |   [Start C++ from Zero and Write Your First Program](https://github.com/Abdul-Jaweed/Data-Structure-and-Algorithms/tree/main/Resource/Day%2003%20Start%20C%2B%2B%20from%20Zero%20and%20Write%20Your%20First%20Program) |   20-Sept-2023 |
 |   Day 4 |   [If Else Statement in c++ && Loop in C++](https://github.com/Abdul-Jaweed/Data-Structure-and-Algorithms/tree/main/Resource/Day%2004%20If%20Else%20Statement%20in%20c%2B%2B%20%26%20Loop%20in%20C%2B%2B) |   21-Sept-2023 |  18-Sept-2023 |
 |   Day 5 |   [Day 05 For Loop in c++ Advance, Prime Number, Factorial, Fibonacci, Sum of n number](https://github.com/Abdul-Jaweed/Data-Structure-and-Algorithms/tree/main/Resource/Day%2005%20For%20Loop%20in%20c%2B%2B%20Advance%2C%20Prime%20Number%2C%20Factorial%2C%20Fibonacci%2C%20Sum%20of%20n%20number) |   22-Sept-2023 |
-<!--|   Day 1 |   [Introduction to programming](https://github.com/Abdul-Jaweed/Data-Structure-and-Algorithms/blob/main/Resource/Day%2001%20Introduction%20to%20Programming/01.md) |   18-Sept-2023 | -->
+
+**### Day 6 and 7 are practice day**
+
+## Week 2
+|   Day 6 |   [Solve Any Pattern Problem With Simple Trick](https://github.com/Abdul-Jaweed/Data-Structure-and-Algorithms/blob/main/Resource/Day%2001%20Introduction%20to%20Programming/01.md) |   18-Sept-2023 |
 <!--|   Day 1 |   [Introduction to programming](https://github.com/Abdul-Jaweed/Data-Structure-and-Algorithms/blob/main/Resource/Day%2001%20Introduction%20to%20Programming/01.md) |   18-Sept-2023 | -->
 <!--|   Day 1 |   [Introduction to programming](https://github.com/Abdul-Jaweed/Data-Structure-and-Algorithms/blob/main/Resource/Day%2001%20Introduction%20to%20Programming/01.md) |   18-Sept-2023 | -->
 <!--|   Day 1 |   [Introduction to programming](https://github.com/Abdul-Jaweed/Data-Structure-and-Algorithms/blob/main/Resource/Day%2001%20Introduction%20to%20Programming/01.md) |   18-Sept-2023 | -->

@@ -11,6 +11,7 @@
 ### Day 6 and 7 are practice day
 
 ## Week 2
+|---------|-----------|----------|
 |   Day 6 |   [Solve Any Pattern Problem With Simple Trick](https://github.com/Abdul-Jaweed/Data-Structure-and-Algorithms/blob/main/Resource/Day%2001%20Introduction%20to%20Programming/01.md) |   18-Sept-2023 |
 <!--|   Day 1 |   [Introduction to programming](https://github.com/Abdul-Jaweed/Data-Structure-and-Algorithms/blob/main/Resource/Day%2001%20Introduction%20to%20Programming/01.md) |   18-Sept-2023 | -->
 <!--|   Day 1 |   [Introduction to programming](https://github.com/Abdul-Jaweed/Data-Structure-and-Algorithms/blob/main/Resource/Day%2001%20Introduction%20to%20Programming/01.md) |   18-Sept-2023 | -->

@@ -3,6 +3,9 @@
 **1. Print number from 280 to 250 with the help of for loop**
 
 ```cpp
+#include <iostream>
+using namespace std;
+
 int main() {
     for (int i=280; i>=250; i--) {
         cout<<i<<" ";
@@ -14,6 +17,9 @@ int main() {
 **2. Print char from ‘A’ to ‘Z’ with the help of a for loop**
 
 ```cpp
+#include <iostream>
+using namespace std;
+
 int main() {
     char c;
     for(c='A'; c<='Z';c++){
@@ -26,6 +32,9 @@ int main() {
 **3. Print char from ‘Z’ to ‘A’ with the help of a for loop**
 
 ```cpp
+#include <iostream>
+using namespace std;
+
 int main() {
     char c;
     for(c='Z'; c>='A';c--){
@@ -38,6 +47,9 @@ int main() {
 **4. There is an Arithmetic Progression, First number is 220 and Common Difference is 7. So print all the numbers from 220 to 730 which follow the AP**
 
 ```cpp
+#include <iostream>
+using namespace std;
+
 int main() {
     for (int i=220;i<=730;i=i+7) {
         cout<<i<<" ";
@@ -50,6 +62,9 @@ int main() {
 **5. Print Sum of square of first n natural number.**
 
 ```cpp
+#include <iostream>
+using namespace std;
+
 int main() {
     cout<<"Enter the Number : ";
     int n,square,i;
@@ -66,6 +81,9 @@ int main() {
 **6. Print Sum of cube of first n natural number**
 
 ```cpp
+#include <iostream>
+using namespace std;
+
 int main() {
     cout<<"Enter the Number : ";
     int n,cube,i;
@@ -82,6 +100,9 @@ int main() {
 **7. Print n’th Fibonacci number.**
 
 ```cpp
+#include <iostream>
+using namespace std;
+
 int main() {
     int n, prev = 0, curr = 1, sum = 0;
     cout << "Enter the Number : ";

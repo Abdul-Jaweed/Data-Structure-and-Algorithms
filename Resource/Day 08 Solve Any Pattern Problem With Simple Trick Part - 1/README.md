@@ -3,6 +3,9 @@
 **1. Print the 4th Number Pattern**
 
 ```cpp
+#include <iostream>
+using namespace std;
+
 int main() {
     cout<<"Enter the Number : ";
     int n;
@@ -19,6 +22,9 @@ int main() {
 **2. Printing the N Square Pattern**
 
 ```cpp
+#include <iostream>
+using namespace std;
+
 int main() {
     cout<<"Enter the Number : ";
     int n;
@@ -36,6 +42,9 @@ int main() {
 **3. Printing the N Cube Pattern**
 
 ```cpp
+#include <iostream>
+using namespace std;
+
 int main() {
     cout<<"Enter the Number : ";
     int n;
@@ -52,6 +61,9 @@ int main() {
 **4. Printing the Character Pattern**
 
 ```cpp
+#include <iostream>
+using namespace std;
+
 int main(){
     for (int i=1; i<=5; i++){
         for (char j='F'; j<='K';j++) {

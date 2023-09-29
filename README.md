@@ -65,9 +65,11 @@ I'm keeping track of my daily progress in a dedicated [Progress Log](progress.md
 |   Day 4 |   [If Else Statement in c++ && Loop in C++](https://github.com/Abdul-Jaweed/Data-Structure-and-Algorithms/tree/main/Resource/Day%2004%20If%20Else%20Statement%20in%20c%2B%2B%20%26%20Loop%20in%20C%2B%2B) |   21-Sept-2023 |  18-Sept-2023 |
 |   Day 5 |   [Day 05 Advance For Loop in C++](https://github.com/Abdul-Jaweed/Data-Structure-and-Algorithms/tree/main/Resource/Day%2005%20For%20Loop%20in%20c%2B%2B%20Advance%2C%20Prime%20Number%2C%20Factorial%2C%20Fibonacci%2C%20Sum%20of%20n%20number) |   22-Sept-2023 |
 <!-- <h2 align="center" style="color: orange;">View more</h2> -->
-<a href="https://github.com/Abdul-Jaweed/Data-Structure-and-Algorithms/tree/main/Progress">
-  <h2 align="center" style="color: orange;">View more</h2>
-</a>
+<h2 align="center" style="color: orange;">
+  <a href="https://github.com/Abdul-Jaweed/Data-Structure-and-Algorithms/tree/main/Progress" style="text-decoration: none; color: inherit;">
+    View more
+  </a>
+</h2>
 
 
 

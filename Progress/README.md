@@ -10,7 +10,7 @@
 |   Day 6 |   **Practice Day** |   23-Sept-2023 |
 |   Day 7 |   **Practice Day** |   24-Sept-2023 |
 |   Day 8 |   [Solve Any Pattern Problem With Simple Trick Part-1](https://github.com/Abdul-Jaweed/Data-Structure-and-Algorithms/tree/main/Resource/Day%2008%20Solve%20Any%20Pattern%20Problem%20With%20Simple%20Trick%20Part%20-%201) |   25-Sept-2023 |
-<!--|   Day 1 |   [Introduction to programming](https://github.com/Abdul-Jaweed/Data-Structure-and-Algorithms/blob/main/Resource/Day%2001%20Introduction%20to%20Programming/01.md) |   18-Sept-2023 | -->
+|   Day 9 |   [Solve Any Pattern Problem with Simple Trick Part-2](https://github.com/Abdul-Jaweed/Data-Structure-and-Algorithms/tree/main/Resource/Day%2009%20Solve%20Any%20Pattern%20Problem%20with%20Simple%20Trick%20Part-2) |   18-Sept-2023 |
 <!--|   Day 1 |   [Introduction to programming](https://github.com/Abdul-Jaweed/Data-Structure-and-Algorithms/blob/main/Resource/Day%2001%20Introduction%20to%20Programming/01.md) |   18-Sept-2023 | -->
 <!--|   Day 1 |   [Introduction to programming](https://github.com/Abdul-Jaweed/Data-Structure-and-Algorithms/blob/main/Resource/Day%2001%20Introduction%20to%20Programming/01.md) |   18-Sept-2023 | -->
 <!--|   Day 1 |   [Introduction to programming](https://github.com/Abdul-Jaweed/Data-Structure-and-Algorithms/blob/main/Resource/Day%2001%20Introduction%20to%20Programming/01.md) |   18-Sept-2023 | -->

@@ -3,6 +3,9 @@
 **1. Printing the Number Pattern**
 
 ```cpp
+#include <iostream>
+using namespace std;
+
 int main() {
     cout<<"Enter the Number : ";
     int n;
@@ -19,6 +22,9 @@ int main() {
 **2. Printing the Character Pattern**
 
 ```cpp
+#include <iostream>
+using namespace std;
+
 int main() {
     for (int i=1;i<=5;i++) {
         char name = 'A';
@@ -34,6 +40,9 @@ int main() {
 **3. Printing the 10th to 15th Number Pattern**
 
 ```cpp
+#include <iostream>
+using namespace std;
+
 int main() {
     for(int i=10;i<=15;i++) {
         for(int j=10;j<=i;j++) {
@@ -47,6 +56,9 @@ int main() {
 **4. Printing the Reverse Character Pattern**
 
 ```cpp
+#include <iostream>
+using namespace std;
+
 int main() {
     for (int i=4;i>=1;i--) {
         char name = 'A';

@@ -16,7 +16,7 @@
 |   Day 12 |   [Operators in C++ with implementation](https://github.com/Abdul-Jaweed/Data-Structure-and-Algorithms/tree/main/Resource/Day%2012%20Operators%20in%20C%2B%2B%20with%20implementation) |   29-Sept-2023 |
 |   Day 13 |   **Practice Day** |   30-Sept-2023 |
 |   Day 14 |   **Practice Day** |   01-Oct-2023 |
-|   Day 15 |   [While and Do while Loop, Switch and break](https://github.com/Abdul-Jaweed/Data-Structure-and-Algorithms/blob/main/Resource/Day%2001%20Introduction%20to%20Programming/01.md) |   18-Sept-2023 |
+|   Day 15 |   [While and Do while Loop, Switch and break](https://github.com/Abdul-Jaweed/Data-Structure-and-Algorithms/tree/main/Resource/Day%2015%20While%20and%20Do%20while%20Loop%2C%20Switch%20and%20break) |   18-Sept-2023 |
 |   Day 16 |   [Binary To Decimal, Decimal To Binary, Decimal To Octal, Binary To Octal Conversion](https://github.com/Abdul-Jaweed/Data-Structure-and-Algorithms/blob/main/Resource/Day%2001%20Introduction%20to%20Programming/01.md) |   18-Sept-2023 |
 <!--|   Day 1 |   [Introduction to programming](https://github.com/Abdul-Jaweed/Data-Structure-and-Algorithms/blob/main/Resource/Day%2001%20Introduction%20to%20Programming/01.md) |   18-Sept-2023 | -->
 <!--|   Day 1 |   [Introduction to programming](https://github.com/Abdul-Jaweed/Data-Structure-and-Algorithms/blob/main/Resource/Day%2001%20Introduction%20to%20Programming/01.md) |   18-Sept-2023 | -->
